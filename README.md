@@ -56,4 +56,4 @@ Feel free to tweak the configurations to match your personal style. Each configu
 - **Fastfetch**: A blazing-fast system information tool.
 - **Fish Shell**: The friendly interactive shell.
 
-Enjoy your new cyan-themed Linux setup! 🌟
+Enjoy your new custom themed Linux setup! 🌟
