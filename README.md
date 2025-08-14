@@ -1,6 +1,6 @@
 # 🌊 My Linux Configs 🌊
 
-Welcome to the **My** **Linux Configs** repository! This collection of configurations is designed to give your Linux environment a sleek, cyan-inspired aesthetic. ✨
+Welcome to the **My** **Linux Configs** repository! This collection of configurations is designed to give your Linux environment a sleek. ✨
 
 ## ⚠️ Important: Backup Your Original Configurations ⚠️
 
@@ -55,5 +55,9 @@ Feel free to tweak the configurations to match your personal style. Each configu
 
 - **Fastfetch**: A blazing-fast system information tool.
 - **Fish Shell**: The friendly interactive shell.
+
+## ⭐ Support This Project
+
+If you find this project useful, please consider giving it a **star** ⭐ and **forking** it to share with others!
 
 Enjoy your new custom themed Linux setup! 🌟
